@@ -1,0 +1,259 @@
+{
+	"users": {
+		"1": {
+			"balance": 99787504999,
+			"level": 5,
+			"adm_time": 0,
+			"bitcoin": 0,
+			"donate": 0,
+			"bloks": {
+				"cases": false,
+				"bonus": false,
+				"random_game": false,
+				"giverub": false,
+				"a_case": false,
+				"pay": false,
+				"frac": false,
+				"gun_case": false
+			},
+			"ferm": {
+				"id": false,
+				"zp": 0
+			},
+			"exs": 0,
+			"exsup": 50,
+			"lvl": 5,
+			"number": 1,
+			"id": 469284392,
+			"nick": true,
+			"game": {
+				"binlose": 0,
+				"binwin": 0,
+				"binstop": false,
+				"kazlose": 0,
+				"kazwin": 0,
+				"rand_lose": 0,
+				"rand_win": 0,
+				"stavka_win": 0,
+				"stavka_lose": 0,
+				"win": 45,
+				"strela_loose": 0,
+				"strela_win": 0
+			},
+			"msg": {
+				"messages": 21,
+				"last_msg": "18:55:44 | 03:03:2018"
+			},
+			"bizs": {
+				"one_biz": true,
+				"one": {
+					"count": 210000000,
+					"balance": 0,
+					"id": 10,
+					"name": "Наркопритон",
+					"people": 50,
+					"uplvl": 0,
+					"zp": 250000,
+					"stop": false,
+					"max_peop": 50
+				},
+				"two_biz": false,
+				"two": {
+					"count": false,
+					"balance": 0,
+					"id": false,
+					"name": false,
+					"people": 0,
+					"uplvl": 0,
+					"zp": 0,
+					"stop": false
+				}
+			},
+			"cars": false,
+			"reys": false,
+			"aircraft": false,
+			"helicopter": false,
+			"house": false,
+			"housep": 0,
+			"pit": false,
+			"phone": false,
+			"bank": 0,
+			"lodka": false,
+			"tag": "Новичок",
+			"brak": false,
+			"ainfo": {
+				"all_ans": 0,
+				"ans": 0,
+				"good_ans": 0,
+				"bad_ans": 0,
+				"vig": 0
+			},
+			"safe": {
+				"status": false,
+				"key": false
+			},
+			"admin": {
+				"block_pay": false,
+				"block_give": false,
+				"block_rep": false
+			},
+			"rep": {
+				"status": false,
+				"id": false
+			},
+			"ban": false,
+			"mute": false,
+			"warn": 0,
+			"warn_p": [],
+			"credit": 0,
+			"procent": 0,
+			"job": {
+				"name": false,
+				"lvl": 0,
+				"stop": false,
+				"count": 0
+			},
+			"global_exs": 0,
+			"autozp": false,
+			"autobiz": false,
+			"frac_name": false,
+			"duel": false,
+			"duel_summ": false,
+			"nachal": false,
+			"uron": 0,
+			"gun_name": false,
+			"block_game": true,
+			"prefix": "Александр Бирюков",
+			"lvl_v": 1,
+			"rtime": "18:43:50 | 03:03:2018"
+		},
+		"2": {
+			"balance": 5000,
+			"level": 0,
+			"adm_time": 0,
+			"bitcoin": 0,
+			"donate": 0,
+			"bloks": {
+				"cases": false,
+				"bonus": false,
+				"random_game": false,
+				"giverub": false,
+				"a_case": false,
+				"pay": false,
+				"frac": false,
+				"gun_case": false
+			},
+			"ferm": {
+				"id": false,
+				"zp": 0
+			},
+			"exs": 0,
+			"exsup": 50,
+			"lvl": 0,
+			"number": 2,
+			"id": 227549637,
+			"nick": true,
+			"game": {
+				"binlose": 0,
+				"binwin": 0,
+				"binstop": false,
+				"kazlose": 0,
+				"kazwin": 0,
+				"rand_lose": 0,
+				"rand_win": 0,
+				"stavka_win": 0,
+				"stavka_lose": 0,
+				"win": 45,
+				"strela_loose": 0,
+				"strela_win": 0
+			},
+			"msg": {
+				"messages": 4,
+				"last_msg": "18:56:55 | 03:03:2018"
+			},
+			"bizs": {
+				"one_biz": false,
+				"one": {
+					"count": false,
+					"balance": 0,
+					"id": false,
+					"name": false,
+					"people": 0,
+					"uplvl": 0,
+					"zp": 0
+				},
+				"two_biz": false,
+				"two": {
+					"count": false,
+					"balance": 0,
+					"id": false,
+					"name": false,
+					"people": 0,
+					"uplvl": 0,
+					"zp": 0
+				}
+			},
+			"cars": false,
+			"reys": false,
+			"aircraft": false,
+			"helicopter": false,
+			"house": false,
+			"housep": 0,
+			"pit": false,
+			"phone": false,
+			"bank": 0,
+			"lodka": false,
+			"tag": "Новичок",
+			"brak": false,
+			"ainfo": {
+				"all_ans": 0,
+				"ans": 0,
+				"good_ans": 0,
+				"bad_ans": 0,
+				"vig": 0
+			},
+			"safe": {
+				"status": false,
+				"key": false
+			},
+			"admin": {
+				"block_pay": false,
+				"block_give": false,
+				"block_rep": false
+			},
+			"rep": {
+				"status": false,
+				"id": false
+			},
+			"ban": false,
+			"mute": false,
+			"warn": 0,
+			"warn_p": [],
+			"credit": 0,
+			"procent": 0,
+			"job": {
+				"name": false,
+				"lvl": 0,
+				"stop": false,
+				"count": 0
+			},
+			"global_exs": 0,
+			"autozp": false,
+			"autobiz": false,
+			"frac_name": false,
+			"duel": false,
+			"duel_summ": false,
+			"nachal": false,
+			"uron": 0,
+			"gun_name": false,
+			"block_game": true,
+			"prefix": "Михаил Сугоняев",
+			"lvl_v": 1,
+			"rtime": "18:53:45 | 03:03:2018"
+		}
+	},
+	"curs": 10000,
+	"bit": 10000,
+	"msg": 25,
+	"number": 2
+}
